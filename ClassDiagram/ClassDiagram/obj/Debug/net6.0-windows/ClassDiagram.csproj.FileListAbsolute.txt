@@ -1,0 +1,219 @@
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.exe
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.deps.json
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.runtimeconfig.json
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.pdb
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.ClassEdit.resources
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.Diagram.resources
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.GenerateResource.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AssemblyInfo.cs
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.CopyComplete
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\refint\ClassDiagram.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.pdb
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.genruntimeconfig.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ref\ClassDiagram.dll
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.AssemblyReference.cache
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.Application.resources
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.ClassEdit.resources
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.Diagram.resources
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.NewAttribute.resources
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.GenerateResource.cache
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.GeneratedMSBuildEditorConfig.editorconfig
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AssemblyInfoInputs.cache
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AssemblyInfo.cs
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.CoreCompileInputs.cache
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.dll
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\refint\ClassDiagram.dll
+U:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.pdb
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.exe
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.deps.json
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.runtimeconfig.json
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.pdb
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.AssemblyReference.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.ClassEdit.resources
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.Diagram.resources
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.NewAttribute.resources
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.GenerateResource.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AssemblyInfoInputs.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AssemblyInfo.cs
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.CoreCompileInputs.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.CopyComplete
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\refint\ClassDiagram.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.pdb
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.genruntimeconfig.cache
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ref\ClassDiagram.dll
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AttributeForm.resources
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.OperationForm.resources
+C:\Users\Артём\Desktop\SSSVT predmety\PRG\4. Čtvrťák\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.OperationAttributeForm.resources
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.exe
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.deps.json
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.runtimeconfig.json
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.pdb
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Google.Protobuf.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\MySql.Data.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\MySql.EntityFrameworkCore.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Text.Json.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ZstdSharp.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.AssemblyReference.cache
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AttributeForm.resources
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.ClassEdit.resources
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.Diagram.resources
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.OperationAttributeForm.resources
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.OperationForm.resources
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.GenerateResource.cache
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.GeneratedMSBuildEditorConfig.editorconfig
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AssemblyInfoInputs.cache
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AssemblyInfo.cs
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.CoreCompileInputs.cache
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.CopyComplete
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\refint\ClassDiagram.dll
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.pdb
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.genruntimeconfig.cache
+X:\P.B\PRG\Projekty\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ref\ClassDiagram.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.exe
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.deps.json
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.runtimeconfig.json
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ClassDiagram.pdb
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.AssemblyReference.cache
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AttributeForm.resources
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.ClassEdit.resources
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.Diagram.resources
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.OperationAttributeForm.resources
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.OperationForm.resources
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.GenerateResource.cache
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AssemblyInfoInputs.cache
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.AssemblyInfo.cs
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.CoreCompileInputs.cache
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.csproj.CopyComplete
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\refint\ClassDiagram.dll
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.pdb
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ClassDiagram.genruntimeconfig.cache
+C:\Users\zakharchenkoartem\Desktop\ClassDiagram\ClassDiagram\obj\Debug\net6.0-windows\ref\ClassDiagram.dll
