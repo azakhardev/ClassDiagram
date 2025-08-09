@@ -1,6 +1,6 @@
-# Class Diagram Editor – Vizualizace tříd ve Windows Forms
+# 📝 Class Diagram Editor – Vizualizace tříd ve Windows Forms
 
-## Popis
+## 📋 Popis
 
 Menší školní projekt vytvořený během dvou týdnů ve Windows Forms. Úkolem bylo vytvořit nástroj pro **vizualizaci a úpravu tříd**, přičemž data mohla být ukládána buď do textového souboru, nebo do databáze – zvolil jsem **databázi**.
 
@@ -13,14 +13,14 @@ Každá třída je reprezentována pomocí komponenty `PictureBox`, která zaji�
 
 > Novým metodám nelze přidat parametry, dokud nejsou nejprve uloženy.
 
-## Funkce
+## ⚙️ Funkce
 
 - Přidávání a úprava tříd (název, atributy, metody)
 - Možnost zoomování a posunu plochy (scrollování)
 - Ukládání diagramu do obrázku
 - Uložení dat do databáze
 
-## Technologie
+## 🛠️ Technologie
 
 - **Jazyk**: C#
 - **UI**: Windows Forms
